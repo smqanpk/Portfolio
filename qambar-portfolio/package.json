@@ -2,7 +2,7 @@
   "name": "qambar-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/qambar-portfolio",
+  "homepage": "https://smqanpk.github.io/qambar-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
