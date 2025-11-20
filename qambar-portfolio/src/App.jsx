@@ -1,4 +1,3 @@
-```jsx
 <div className="w-full h-64 rounded-xl bg-gradient-to-br from-gray-100 to-gray-50 dark:from-gray-800 dark:to-gray-900 flex items-center justify-center border border-gray-200 dark:border-gray-800">
 <p className="text-center text-sm text-gray-500 dark:text-gray-400">[Hero Illustration / Map Preview — replace with screenshot or SVG]</p>
 </div>
@@ -67,4 +66,3 @@
 </div>
 )
 }
-```
