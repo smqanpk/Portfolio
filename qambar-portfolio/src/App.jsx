@@ -173,7 +173,7 @@ export default function App() {
 
           <div className="max-w-2xl">
             <form
-              action="https://formsubmit.co/your-email@example.com"
+              action="https://formsubmit.co/63c92262bbadc3e8a06cdf9cd48e9121"
               method="POST"
               className="grid grid-cols-1 gap-4"
             >
