@@ -127,7 +127,7 @@ export default function App() {
               <motion.div
                 key={s}
                 whileHover={{ y: -6 }}
-                className="p-4 rounded-lg border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-850"
+                className="p-4 rounded-lg border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-800"
               >
                 <h4 className="font-semibold mb-2">{s}</h4>
                 <p className="text-sm text-gray-500 dark:text-gray-400">
@@ -147,7 +147,7 @@ export default function App() {
               <a
                 key={p.id}
                 href={p.link}
-                className="group block p-4 rounded-xl border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-850 hover:shadow-lg transition-shadow"
+                className="group block p-4 rounded-xl border border-gray-100 dark:border-gray-800 bg-white dark:bg-gray-800 hover:shadow-lg transition-shadow"
               >
                 <motion.div whileHover={{ scale: 1.02 }} className="flex gap-4">
                   <div className="w-20 h-20 rounded-md bg-gray-100 dark:bg-gray-800 flex items-center justify-center font-semibold">
@@ -228,3 +228,4 @@ export default function App() {
     </div>
   );
 }
+
