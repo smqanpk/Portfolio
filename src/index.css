@@ -9,4 +9,5 @@
 html.dark{
   --bg: #0b0f13;
 }
-
+/* Make card backgrounds explicit in dark mode for high contrast */
+.dark .card-bg { background-color: #0f1724; } /* fallback custom */
